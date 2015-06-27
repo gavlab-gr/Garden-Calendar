@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="118" updatableVersionMin="" updatableVersionMax="" fileName="Garden_organization_windows_1.exe" newVersion="1" newMediaFileId="118" fileSize="3309568" bundledJre="" archive="false">
+    <comment language="el" />
+    <comment language="en" />
+  </entry>
+</updateDescriptor>

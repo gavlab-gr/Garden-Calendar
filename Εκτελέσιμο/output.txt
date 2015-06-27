@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+118	windows	Windows	C:\Users\Administrator.user23pc\Desktop\Νέος φάκελος\Εκτελέσιμο\Garden_organization_windows_1.exe
